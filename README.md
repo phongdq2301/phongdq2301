@@ -6,7 +6,8 @@ I'm a developer from Vietnam. I am passionate with code, and I usually **write**
 
 - ✍️  I have my own blog at [@phonga3cvp](https://medium.com/@phonga3cvp)
 - 👨‍  I'm a full-stack developer
-- 💻 My main programing language is Java, besides I also work with C#, C++, JavaScript
+- 💻 My main programing language is Java, besides I also
+work with C#, C++, JavaScript
 - 📚  I'm currently learning microservices
 - 💬  Trying to reach me?
 #### Get in touch
