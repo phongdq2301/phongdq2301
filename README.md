@@ -2,7 +2,7 @@
 
 I'm a developer from Vietnam. I am passionate with code, and I usually **write** and **talk** about it.
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=phongdq2301&&show_icons=true&theme=highcontrast&hide_title=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=phongduong33&&show_icons=true&theme=highcontrast&hide_title=true" />
 
 - ✍️  I have my own blog at [@phongdq2301](https://medium.com/@phongdq2301)
 - 👨‍  I'm a full-stack developer
