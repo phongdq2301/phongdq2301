@@ -11,4 +11,4 @@ I'm a developer from Vietnam. I am passionate with code, and I usually **write**
 - 💬  Trying to reach me?
 #### Get in touch
 * [phonga3cvp@gmail.com](mailto:phonga3cvp@gmail.com)
-* Skype: [live:phonga3cvp]
+* Skype: live:phonga3cvp
